@@ -5,7 +5,7 @@ HC 11
   class="fit-picture"
   src="Focused_Briarwood.png"
   alt="Briarwood zoomed in" 
-  style="width:900px;height:400px;"
+  style="width:1100px;height:400px;"
   />
 
   This is the neighborhood of Briarwood.
@@ -16,7 +16,7 @@ HC 11
   class="fit-picture"
   src="NYS_CLEANTHEAT.png"
   alt="CLEANHEAT ICON" 
-  style="width:900px;height:400px;"
+  style="width:1100px;height:400px;"
   />
 
   The Clean Heat program has been set in motion recently as an intiative against the wasteful usage of energy, predominalty cuased by the buildings of New York City.
