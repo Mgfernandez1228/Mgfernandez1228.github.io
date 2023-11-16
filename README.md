@@ -46,6 +46,6 @@ HC 11
 </dl>
 
 There are 5 noticable boilers within the boundaries of the Briarwood neighborhood.
-This might not seem as much, however, the environmental impact is costly. These burns millions of gallons relasing many pollutants. We must find a way to solve to keep our planet clean.
+This might not seem as much, however, the environmental impact is costly. These burn millions of gallons relasing many pollutants. We must find a way to solve to keep our planet clean.
 
 
