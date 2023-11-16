@@ -25,7 +25,7 @@ HC 11
 
 <img
   class="fit-picture"
-  src="Fuels.png"
+  src="Briarwood_fuels.png"
   alt="Briarwood fuels"
   style="width:900px;height:300px;"
   />
@@ -34,7 +34,7 @@ HC 11
 
 <img
   class="fit-picture"
-  src="elevator.png"
+  src="Elevator.png"
   alt="Elevator Apartments" 
   style="width:900px;height:300px;"
   />
