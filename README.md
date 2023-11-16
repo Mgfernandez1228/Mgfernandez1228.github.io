@@ -10,4 +10,6 @@ This might not seem as much, however, the environmental impact is costly.
 <img
   class="fit-picture"
   src="Focused_Briarwood.png"
-  alt="Briarwood zoomed in" />
+  alt="Briarwood zoomed in" 
+  style="width:600px;height:400px;"
+  />
