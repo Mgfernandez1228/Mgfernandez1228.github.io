@@ -5,7 +5,7 @@ HC 11
   class="fit-picture"
   src="Focused_Briarwood.png"
   alt="Briarwood zoomed in" 
-  style="width:900px;height:400px;"
+  style="width:900px;height:300px;"
   />
 
   This is the neighborhood of Briarwood.
@@ -16,10 +16,10 @@ HC 11
   class="fit-picture"
   src="NYS_CLEANHEAT.png"
   alt="CLEANHEAT ICON" 
-  style="width:900px;height:400px;"
+  style="width:900px;height:300px;"
   />
 
-  The Clean Heat program has been set in motion recently as an intiative against the wasteful usage of energy, predominalty cuased by the buildings of New York City.
+  The Clean Heat program has been set in motion recently as an initiative against the wasteful usage of energy, predominantly caused by the buildings of New York City. This tackles mainly boiler usage as these use No.4 and No.6 fuels which pollute the environment in a catastrophic manner. To combat these many plans the Greener Greater Buildings Plan was enacted. This plan seeks to increase the transparency between buildings owners and the public on their energy usage. With this knowledge available to the public people will begin to keep these buildings in line. There are also many programs that seek to help smaller businesses become eco-friendly for free so that everyone helps our environment by keeping our energy clean.
 
 
 <dl>
