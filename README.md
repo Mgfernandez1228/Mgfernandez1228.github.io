@@ -14,7 +14,7 @@ HC 11
 
 <img
   class="fit-picture"
-  src="NYS_CLEANTHEAT.png"
+  src="NYS_CLEANHEAT.png"
   alt="CLEANHEAT ICON" 
   style="width:1100px;height:400px;"
   />
