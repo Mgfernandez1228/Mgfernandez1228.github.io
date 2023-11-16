@@ -7,4 +7,4 @@ HC 11
 There are 5 noticable boilers within the boundaries of the Briarwood neighborhood.
 This might not seem as much, however, the environmental impact is costly.
 
-
+Focused_Briarwood.png
