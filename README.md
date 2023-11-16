@@ -27,7 +27,7 @@ HC 11
   class="fit-picture"
   src="Briarwood_fuels.png"
   alt="Briarwood fuels"
-  style="width:900px;height:500px;"
+  style="width:900px;height:600px;"
   />
 
   In Briarwood, the primary fuel used is No.6 fuels. This may make sense as Briarwood is a lower income area compared to Astoria. Therefore, many building owners and businesses may not be able to properly follow regulations simply because No. 4 fuels may not be affordable for everyone. This also because many buildings here are mostly elevator apartments.
@@ -36,7 +36,7 @@ HC 11
   class="fit-picture"
   src="Elevator.png"
   alt="Elevator Apartments" 
-  style="width:900px;height:500px;"
+  style="width:900px;height:550px;"
   />
 
   In Queens overall, elevator apartments seem to waste the most amount of energy out of any other building. This may come as a surprise, however, elevators use lots of energy. Think of the times you have used an elevator then multiply that by all the people that also go into the building. That would be a very large amount of people using the elevator. To combat this we must either find a clean energy source for the elevators or we must alternatives.
