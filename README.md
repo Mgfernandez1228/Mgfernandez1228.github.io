@@ -45,7 +45,7 @@ HC 11
   <iframe src="NYC_boiler_Locations" width="600" height="400" frameborder="0" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 </dl>
 
-There are 5 noticeable boilers within the boundaries of the Briarwood neighborhood.
+There are 6 noticeable boilers within the boundaries of the Briarwood neighborhood.
 This might not seem as much, however, the environmental impact is costly. These burn millions of gallons relasing many pollutants. We must find a way to solve to keep our planet clean.
 
 
